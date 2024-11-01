@@ -1,6 +1,6 @@
 # Dineh Pharmaceutical Website Screenshots
 
-Responsive website design project for **Dineh**, one of Iran's leading pharmaceutical companies, focused on delivering a modern, user-friendly interface. Below are screenshots showcasing the key sections of the site.
+Responsive website design project for **Dineh**, one of Iran's leading pharmaceutical companies, focused on delivering a modern, responsive user-friendly interface. Below are screenshots showcasing the key sections of the site.
 
 ---
 
