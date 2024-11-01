@@ -1,0 +1,721 @@
+ul,nav,ol,a,li,div,p,h1,label,h2,h3,h4,input,pre {
+    font-family: 'iran-sans',Helvetica,Geneva,Verdana,sans-serif;
+    direction: rtl;
+}
+
+
+@font-face {
+    font-family: 'iran-sans';
+    src: url('../fonts/IRANSans-Medium-web.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iran-sans-light';
+    src: url('../fonts/IRANSans-Light-web.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HEADER   *  *  * *  *  * *  *  * *  *  * *  *  * */  
+#cd-menu-trigger {
+    float: left;
+    right: 6px;
+    padding: 8px;
+    top: 39px;
+}
+
+.lang-select ul {
+    float:left;
+
+}
+.main-items {
+    font-size:0.8rem;
+    padding: 17px 25px;
+}
+
+.topmenu > li {
+	float: right;
+    margin: 0 0 0 4rem;
+
+}
+
+.topmenu {
+	float:right;
+}
+
+.logo-img {
+	float:right;
+}
+
+.logo-img-mob {
+    float: right;
+}
+
+.search-form {
+	float: left;
+    left: -14px;
+    margin-top: 55px;
+    clear: left;
+}
+
+
+.search-form input[type="text"]{
+	text-align: right;
+    direction: rtl;
+    font-family: 'iran-sans-light';
+    padding-left:30px;
+}
+
+.search-form a img {
+    float: left;
+    left: 19px;
+}
+
+.head-row2 nav ul ul {
+    right: 0px;
+    width: 205px;
+}
+
+.head-row2 nav ul ul li a {
+    font-size: 0.7rem;
+    padding: 12px 20px;
+}
+
+.search-form3 input[type="text"]{
+    text-align: right;
+    direction: rtl;
+    font-family: 'iran-sans-light';
+    padding-left:30px;
+    font-size: 0.6rem;
+}
+
+.search-form3 a img {
+    left: 8px;
+}
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HEADER   *  *  * *  *  * *  *  * *  *  * *  *  * */  
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  FOOTER   *  *  * *  *  * *  *  * *  *  * *  *  * */
+.footer-logo {
+    float:right;
+    padding-left:20px;
+    border-left:1px solid #fff;
+}
+.address-container ul li {
+    font-family: 'iran-sans-light';
+}
+
+.address-container ul {
+    font-size: 0.75rem;
+    float: right;
+    margin-right: 20px;
+    margin-top: 89px;
+    line-height: 26px;
+}
+
+.newsletter-form {
+    float:left;
+    clear: left;
+
+}
+
+
+.newsletter-text {
+    float:left;
+    margin-bottom: 10px;
+    width:297px;
+}
+
+.newsletter-text p { 
+    font-family: 'iran-sans-light';
+    font-size:0.7rem;
+    margin-top: 75px;
+    line-height: 23px;
+}
+
+.newsletter-form input[type="email"]{
+    font-family: 'iran-sans';
+    font-size: 0.7rem;
+}
+
+.button,
+.submit,
+input[type="submit"] {
+    font-family: 'iran-sans';
+    padding: 10px 20px 12px;
+    font-size: 0.9rem;
+
+}
+.fbar2 p {
+    direction: rtl;
+    font-size: 0.55rem;
+    font-family: 'iran-sans-light';
+    padding-top:6px;
+}
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  FOOTER   *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HOMEPAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+.ps-img {
+    float: right;
+    margin: 0 7rem 0.6rem 0;
+}
+
+.ps-desc  {
+    float:left;
+    margin-top: 1rem;
+}
+
+.ps-desc a h2{
+    letter-spacing: 3px;
+    text-align: right;
+    margin: 4rem 2.5rem 1.8rem 0;
+    float: right;
+    font-size: 2.5rem;
+}
+
+.ps-desc p {
+    margin-right: 2.5rem;
+    font-size: 1.1rem;
+    height: 100px;
+    text-align: right;
+    float: right;
+}
+
+.qn-box a h2 {
+	font-size: 1.3rem;
+	margin-top:1.4rem;
+
+}
+
+.qn-box:nth-child(1) {
+    margin-left: 135px;
+}
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HOMEPAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCTS  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.products-wrap {
+
+
+}
+
+
+.products-category {
+
+    float:right;
+
+}
+
+.products-category-header h1{
+    font-size: 0.8rem;
+    padding: 14px 20px;
+    color: white;
+    font-weight: 100;
+    position: relative;
+    top: 1px;
+}
+
+.products-category-section1 div ul li a {
+
+    font-size: 0.65rem;
+    margin: 13px 20px 0;
+
+}
+
+.products-category-section2 div ul li label {
+
+    font-size: 0.65rem;
+    position: relative;
+    top: -3px;
+    right: 6px;
+}
+
+.filter input {    
+    margin:18px 16px 2px 0;
+    display:inline-block;
+}
+
+
+
+.products-content {
+    float:left;
+}
+
+.products-content-header h1{
+
+    font-size: 1rem;
+    padding-top:11px;
+    padding-right:13px;
+    font-weight: 100;
+}
+
+
+.search-form2 {
+    float: left;
+    top: -31px;
+    padding-left: 5px;
+}
+
+.search-form2 input[type="image"] {
+    float: left;
+    left: 16px;
+    top: 12px;
+}
+
+.search-form2 input[type="text"]{
+    font-family: 'iran-sans-light';
+    text-align: right;
+    direction: rtl;
+    font-size: 0.55rem;
+
+}
+
+.product-item {
+    float:right;
+    margin:0 0 50px 40px;
+}
+
+.product-item:nth-child(3n+1) {
+
+    margin-left:0;
+}
+
+
+.product-item a h2 {
+
+    margin-right: 15.5px;
+    font-size: 0.9rem;
+    padding-bottom: 7px;
+    margin-top: 4px;
+
+
+}
+
+.product-item p {
+
+    font-size: 0.6rem;
+    line-height: 20px;
+    margin: 0 auto;
+    width: 88%;
+
+}
+
+
+.pagination {
+    float:left;
+
+}
+.pagination a, .pagination strong {
+    padding: 9px 16px;
+}
+
+.pagination strong {
+    float: left;
+    font-family: 'iran-sans';
+    font-size: 0.7rem;
+}
+
+.pagination a {
+    float: left;
+    font-size: 0.7rem;
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCTS  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCT-DETAIL  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+.accordion-panel__heading{
+    font-size: 0.8rem;
+}
+
+.accordion-panel__heading:before{
+    right:0;
+
+}
+
+.accordion-panel__content:before{
+    right:0;
+
+}
+
+.accordion-panel__content pre {
+    font-size: 0.7rem;
+    line-height: 23px;
+    color:#4c4c4c;
+    white-space: pre-wrap;
+}
+
+.accordion-panel__heading.active:HOVER,
+.accordion-panel__heading.active {
+    padding: 20px 30px 15px 40px;
+
+}
+
+.accordion-panel__content.active {
+    padding: 10px 30px 15px 40px;
+}
+
+.product-navigation {
+    padding:20px 56px 30px 0;
+
+}
+
+.product-navigation-link {
+    font-size:0.6rem;
+    color:#676767;
+}
+.product-description {
+    float: left;
+    height: auto;
+}
+
+.product-description h1 {
+
+    font-size:1.5rem;
+    padding-bottom: 15px;
+    color: #000;
+
+}
+
+.product-introduction {
+    font-size:1rem;
+    padding-bottom: 30px;  
+    border-bottom: 1px solid #E0DFDF;
+
+
+}
+
+.product-description h2 {
+
+    font-size:0.8rem;
+    padding-bottom: 8px;
+    font-weight: 100;
+
+}
+.pdes-first-h2 {
+    padding-top: 40px;
+}
+
+.product-info {
+    font-family: iran-sans-light;
+    font-size: 0.75rem;
+    padding-bottom: 20px;
+    line-height: 24px;
+
+}
+
+.product-detail-image {
+    float: right;
+    padding: 0 55px 60px 0;
+}
+
+.product-detail-image img {
+    margin: 0 auto;
+
+}
+
+.product-description div {
+    padding: 30px 60px 0 0;
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCT-DETAIL  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  STATIC-PAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+.static-text {
+    padding: 50px 0 150px;
+    margin: 0 auto;
+    width: 950px;
+
+}
+.static-text h1 {
+    font-size:1.7rem;
+    padding-bottom: 30px;
+
+}
+
+
+
+.static-text p {
+    font-family:'iran-sans-light';
+    font-size:0.85rem;
+    line-height: 32px;
+    font-weight: 300;
+
+}
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  STATIC-PAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  ARTICLES  *  *  * *  *  * *  *  * *  *  * *  *  * */
+.articles-page-wrap h1 {
+    font-size:1.7rem;
+    padding-bottom: 30px;
+}
+
+.article-name {
+    font-family: iran-sans-light;
+    float:right;
+    font-size: 0.85rem;
+    margin-left: 20px;
+    padding: 12px 0;
+    bottom: 4px;
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  ARTICLES  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  SINGLE DANESTANI  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.fact-product a h2 {
+    margin-right: 15.5px;
+    font-size: 0.9rem;
+    padding-bottom: 7px;
+    margin-top: 5px;
+}
+
+.fact-product p {
+    font-size: 0.6rem;
+    line-height: 23px;
+    height: 56px;
+}
+
+.enter-page span {
+    float:right;
+    font-size: 0.65rem;
+}
+
+.enter-page img {
+    float:left;
+    top: 3px;
+}
+
+.enter-page {
+    padding-top: 5px;
+    margin-right: 16px;
+}
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  SINGLE DANESTANI  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  FACTS  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.fact-box h1 {
+    font-size:1.7rem;
+    padding-bottom: 60px;
+}
+
+.fact-item {
+    float: right;
+    margin:0 0 95px 5%;
+}
+
+.fact-thumb {
+    float:right;
+}
+
+.fact-item h2 {
+    font-size: 0.8rem;
+
+}
+
+.fact-item p {
+    font-family: iran-sans-light;
+    font-size: 0.6rem;
+
+}
+
+.fact-item:nth-child(3n+1) {
+    margin-left: 0;
+}
+
+.fact-item span {
+    float:right;
+    font-size: 0.65rem;
+    top:3px;
+}
+
+.more {
+    float:left;
+    top: 3px;
+}
+
+.fact-desc h2 {
+    padding-right: 10px;
+    padding-bottom: 7px;
+
+}
+
+.fact-desc p{
+    padding-right: 10px;
+}
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  FACTS  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+/*  *  * *  *  * *  *  * *  *  ** *  * *  *  *  SINGLE DANESTANI  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.fact-container  {
+    padding: 50px 0 45px;
+}
+
+.fact-container h1 {
+    font-size:1.5rem;
+    padding-bottom: 30px;
+}
+
+.fact-container > p {
+    font-family:'iran-sans-light';
+    font-size:0.85rem;
+    line-height: 32px;
+    font-weight: 300;
+    padding-bottom: 50px;
+}
+
+.fact-product {
+    float: right;
+    margin: 0  0 65px 12%;
+}
+
+.fact-product:nth-of-type(3n) {
+    margin-left:0;
+}
+
+/*  *  * *  *  * *  *  * *  *  ** *  * *  *  *  SINGLE - FACT  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  MODAL  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.modal img {
+    float:right;
+
+}
+
+.modal-content {
+    float:right;
+}
+
+.modal-content h1{
+    font-size: 1.2rem;
+    padding-bottom: 15px;
+}
+
+.modal-content pre {
+    font-family: iran-sans-light;
+    font-size: 0.8rem;
+    line-height: 23px;
+    text-align: justify;
+    white-space: pre-line;
+
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  MODAL  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  CONTACT US  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.contactus-container h1 {
+    font-size:1.5rem;
+    padding-bottom: 30px;
+}
+
+#contactus-submit {
+    float:left;
+    font-family: iran-sans-light;
+}
+
+.contactus-textarea {
+    font-family:iran-sans-light;
+    font-size:0.7rem;
+}
+
+.contactus-input {
+    font-family:iran-sans-light;
+    font-size:0.7rem;
+
+}
+.captcha-input {
+    float: right;
+    font-family: iran-sans-light;
+    font-size: 0.7rem;
+}
+
+.captcha-image {
+    float:left;
+    margin: 10px 0 0 26px;
+}
+
+.ajax-loader {
+    float:right;
+    margin: 61px 26px 0 0;
+}
+
+.contactus-form-container {
+    float:left;
+}
+
+.contactus-text {
+    float: right;
+    border-left: 2px solid rgb(187, 0, 111);
+    height: 235px;
+}
+
+.contactus-text p {
+    font-size: 1rem;
+    padding: 0 40px 0 0;
+    font-family: iran-sans-light;
+    line-height: 42px;
+}
+
+.success p {
+    font-family: iran-sans-light;
+    font-size: 0.9rem;
+}
+
+.success img {
+    float:right;
+    top: 5px;
+    margin: 0 0 0 7px;
+}
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  CONTACT US  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+
+
+
+
+@media only screen and (min-width:625px) and (max-width:989px) {
+.fact-item:nth-child(3n+1) {
+    margin-left:10%;
+}
+
+}

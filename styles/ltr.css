@@ -1,0 +1,607 @@
+
+ul,nav,ol,a,li,div,p,h1,label,h2,h3,h4,input,pre {
+    font-family: muli-light,Helvetica,Geneva,Verdana,sans-serif;
+
+}
+
+@font-face {
+    font-family: 'muli-light';
+    src: url('../fonts/muli-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HEADER   *  *  * *  *  * *  *  * *  *  * *  *  * */  
+
+.lang-select ul {
+    float:right;
+
+}
+
+.main-items {
+    font-size:1rem;
+    letter-spacing: 1px;
+    top: 5px;
+    padding: 17px 25px;
+    position: relative;
+}
+
+.topmenu > li {
+	float: left;
+    margin: 0 4rem 0 0;
+
+}
+
+.topmenu {
+	float: left;
+}
+
+.logo-img {
+	float:left;
+}
+
+.search-form {
+	float: right;
+	margin-top: 55px;
+}
+
+
+.search-form input[type="text"]{
+	text-align: left;
+    direction: ltr;
+    font-family: muli-light;
+    padding-right:30px;
+
+}
+
+.search-form a img {
+    float: right;
+    right: 19px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+nav ul ul {
+    left: 0px;
+    width: 228px;
+}
+
+nav ul ul li a {
+    font-size: 0.85rem;
+    padding: 13px 20px;
+}
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HEADER   *  *  * *  *  * *  *  * *  *  * *  *  * */  
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  FOOTER   *  *  * *  *  * *  *  * *  *  * *  *  * */
+.footer-logo {
+    float:left;
+    padding-right:20px;
+    border-right:1px solid #fff;
+}
+.fbar1-wrap ul li {
+    font-family: muli-light;
+}
+
+.fbar1-wrap ul {
+	font-size: 0.8rem;
+    float: left;
+    margin-left: 20px;
+    margin-top: 97px;
+    line-height: 22px;
+}
+
+.newsletter-form {
+    float:right;
+    clear: right;
+
+}
+
+
+.newsletter-text {
+    float:right;
+    margin-bottom: 10px;
+    width:306px;
+}
+
+.newsletter-text p { 
+    font-size:0.79rem;
+    margin-top: 81px;
+    line-height: 23px;
+}
+
+.newsletter-form input[type="text"]{
+    font-size: 0.7rem;
+}
+
+.button,
+.submit,
+input[type="submit"] {
+    padding: 10px 20px 13px;
+    font-size: 0.85rem;
+
+}
+
+
+.fbar2 p {
+    direction: ltr;
+    font-size: 0.65rem;
+    padding-top: 8px;
+}
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  FOOTER   *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HOMEPAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+.ps-img {
+    float: left;
+    margin: 0  0 0.6rem 7rem;
+}
+
+.ps-desc  {
+    float:right;
+    margin-top: 1rem;
+}
+
+
+
+.ps-desc a h1{
+    letter-spacing: 1px;
+    text-align: left;
+    margin: 4rem 0 1.8rem 2.5rem;
+    float: left;
+    font-size: 2.5rem;
+}
+
+.ps-desc p {
+    margin-left: 2.5rem;
+    font-size: 1.1rem;
+    height: 100px;
+    text-align: left;
+    float: left;
+}
+
+.qn-box a h2 {
+	font-size: 1.4rem;
+	margin-top:1.4rem;
+
+}
+
+.qn-box:nth-child(1) {
+    margin-left: 115px;
+}
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  HOMEPAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCTS  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+.products-wrap {
+
+
+}
+
+
+.products-category {
+    float:left;
+}
+
+.products-category-header h1{
+    font-size: 1rem;
+    padding: 14px 20px;
+    color: white;
+    font-weight: 100;
+}
+
+.products-category-section1 div ul li a {
+    font-size: 0.79rem;
+    margin: 16px 20px 0;
+
+}
+
+.products-category-section2 div ul li label {
+
+    font-size: 0.65rem;
+    position: relative;
+    top: -3px;
+    left: 6px;
+}
+
+.filter input {
+    margin:18px 16px 2px 0;
+    display:inline-block;
+}
+
+.products-content {
+    float:right;
+
+
+}
+
+.products-content-header h1{
+    font-size: 1.3rem;
+    padding-top: 11px;
+    padding-left: 13px;
+    font-weight: 900;
+}
+
+
+.search-form2 {
+    float: right;
+    top: -31px;
+    padding-right: 5px;
+}
+
+.search-form2 a img {
+    float: right;
+    right: 16px;
+    top:12px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+
+.search-form2 input[type="text"] {
+    font-size: 0.6rem;
+
+}
+
+.product-item {
+    float:left;
+    margin:0 40px 50px 0;
+}
+
+.product-item:nth-child(3n+1) {
+
+    margin-right:0;
+}
+
+
+.product-item a h2 {
+    margin-left: 15.5px;
+    font-size: 0.9rem;
+    padding-bottom: 7px;
+    margin-top: 4px;
+
+
+}
+
+.product-item p {
+
+    font-size: 0.6rem;
+    line-height: 20px;
+    margin: 0 auto;
+    width: 88%;
+
+}
+
+.pagination {
+    float:right;
+
+}
+
+.pagination a, .pagination strong {
+    padding: 13px 16px;
+}
+
+.pagination strong {
+    float: left;
+    font-size: 0.9rem;
+}
+
+.pagination a {
+    float: left;
+    font-size: 0.9rem;
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCTS  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCT-DETAIL  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+.accordion-panel__heading{
+    font-size: 0.9rem;
+}
+
+.accordion-panel__heading:before{
+    left:0;
+
+}
+
+.accordion-panel__content:before{
+    left:0;
+
+}
+
+.accordion-panel__content pre {
+    font-size: 0.9rem;
+    line-height: 23px;
+    color:#4c4c4c;
+    white-space: pre-wrap;
+}
+
+.accordion-panel__heading.active:HOVER,
+.accordion-panel__heading.active {
+    padding: 20px 40px 15px 30px;
+}
+
+.accordion-panel__content.active {
+    padding: 10px 40px 15px 30px;
+}
+
+.product-navigation {
+	padding: 20px 0 30px 56px;
+
+}
+
+.product-navigation-link {
+    font-size:0.7rem;
+    color:#676767;
+}
+.product-description {
+    float: left;
+}
+
+.product-description h1 {
+    font-size:1.9rem;
+    padding-bottom: 15px;
+    color: #000;
+}
+
+.product-introduction {
+    font-size:1.05rem;
+    padding-bottom: 30px;  
+    border-bottom: 1px solid #E0DFDF;
+}
+
+.product-description h2 {
+    font-size:1rem;
+    padding-bottom: 8px;
+}
+
+.pdes-first-h2 {
+    padding-top: 30px;
+}
+
+.product-info {
+    font-size:0.9rem;
+    padding-bottom: 20px;
+    line-height: 20px;
+}
+
+.product-detail-image {
+    float: left;
+    padding: 0 0 60px 55px;
+}
+
+.product-detail-image img {
+    margin: 0 auto;
+
+}
+
+.product-description div {
+    padding: 20px 0 0 60px;
+}
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  PRODUCT-DETAIL  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  STATIC-PAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+.static-text {
+    padding: 50px 0 150px;
+    margin: 0 auto;
+    width: 950px;
+
+}
+.static-text h1 {
+    font-size:1.9rem;
+    padding-bottom: 30px;
+
+}
+
+
+
+.static-text p {
+    font-size:1rem;
+    line-height: 30px;
+    font-weight: 300;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  STATIC-PAGE  *  *  * *  *  * *  *  * *  *  * *  *  * */
+
+
+@media only screen and (min-width:990px) and (max-width:1250px) {
+
+    /* Master-Page */
+
+
+    /* Master-Page */
+
+
+    /* Home */
+
+
+    /* Home */
+
+
+
+    /* Products */
+
+
+    /* Products */
+
+
+
+    /* Product-detail */
+
+
+    /* Product-detail */
+
+
+    /* static-page */
+
+
+    /* static-page */
+
+
+}
+
+
+
+
+@media only screen and (min-width:) and (max-width:) {
+
+    /* Master-Page */
+
+
+    /* Master-Page */
+
+
+    /* Home */
+
+
+    /* Home */
+
+
+
+    /* Products */
+
+
+    /* Products */
+
+
+
+    /* Product-detail */
+
+
+    /* Product-detail */
+
+
+    /* static-page */
+
+
+    /* static-page */
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (min-width:) and (max-width:) {
+
+    /* Master-Page */
+
+
+    /* Master-Page */
+
+
+    /* Home */
+
+
+    /* Home */
+
+
+
+    /* Products */
+
+
+    /* Products */
+
+
+
+    /* Product-detail */
+
+
+    /* Product-detail */
+
+
+    /* static-page */
+
+
+    /* static-page */
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (min-width:) and (max-width:) {
+
+    /* Master-Page */
+
+
+    /* Master-Page */
+
+
+    /* Home */
+
+
+    /* Home */
+
+
+
+    /* Products */
+
+
+    /* Products */
+
+
+
+    /* Product-detail */
+
+
+    /* Product-detail */
+
+
+    /* static-page */
+
+
+    /* static-page */
+
+
+}
+
+
+/*  *  * *  *  * *  *  * *  *  *  *  *  * *  *  *  RESPONSIVE  *  *  * *  *  * *  *  * *  *  * *  *  * */
