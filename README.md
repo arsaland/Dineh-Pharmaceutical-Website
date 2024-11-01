@@ -13,7 +13,7 @@ Responsive website design project for **Dineh**, one of Iran's leading pharmaceu
 ![Product Collection](screenshots/product-collection.png)
 
 ### Product Details
-![Product Details](screenshots/product-details.png)
+![Product Details](screenshots/product-page.png)
 
 ### Info
 ![Info](screenshots/info-page.png)
