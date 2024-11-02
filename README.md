@@ -7,20 +7,19 @@ Responsive website design project for **Dineh**, one of Iran's leading pharmaceu
 ## Screenshots
 
 ### Home
-[![Home Thumbnail](screenshots/home-thumbnail.png)](screenshots/home.png)
+[![Home Thumbnail](screenshots/home-thumbnail.png)](https://raw.githubusercontent.com/arsaland/Dineh-Pharmaceutical-Website/main/screenshots/home.png)
 
 ### Product Collection
-[![Product Collection Thumbnail](screenshots/product-collection-thumbnail.png)](screenshots/product-collection.png)
+[![Product Collection Thumbnail](screenshots/product-collection-thumbnail.png)](https://raw.githubusercontent.com/arsaland/Dineh-Pharmaceutical-Website/main/screenshots/product-collection.png)
 
 ### Product Details
-[![Product Details Thumbnail](screenshots/product-page-thumbnail.png)](screenshots/product-page.png)
+[![Product Details Thumbnail](screenshots/product-page-thumbnail.png)](https://raw.githubusercontent.com/arsaland/Dineh-Pharmaceutical-Website/main/screenshots/product-page.png)
 
 ### Info
-[![Info Thumbnail](screenshots/info-page-thumbnail.png)](screenshots/info-page.png)
+[![Info Thumbnail](screenshots/info-page-thumbnail.png)](https://raw.githubusercontent.com/arsaland/Dineh-Pharmaceutical-Website/main/screenshots/info-page.png)
 
 ### Gallery
-[![Gallery Thumbnail](screenshots/gallery-thumbnail.png)](screenshots/gallery.png)
+[![Gallery Thumbnail](screenshots/gallery-thumbnail.png)](https://raw.githubusercontent.com/arsaland/Dineh-Pharmaceutical-Website/main/screenshots/gallery.png)
 
 ### Contact
-[![Contact Thumbnail](screenshots/contact-thumbnail.png)](screenshots/contact.png)
-
+[![Contact Thumbnail](screenshots/contact-thumbnail.png)](https://raw.githubusercontent.com/arsaland/Dineh-Pharmaceutical-Website/main/screenshots/contact.png)
